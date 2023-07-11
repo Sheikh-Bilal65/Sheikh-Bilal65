@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheikhh.Bilal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Spring Java Framework
 - 📫 Find me on instagram sheikhh.bilal
 
 <!---
