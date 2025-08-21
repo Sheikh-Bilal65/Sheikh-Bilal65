@@ -13,7 +13,6 @@ If you find my work helpful or inspiring, consider supporting my efforts. Your c
 **Crypto Donation (Binance)**: If you prefer to pay in crypto, send money to my Binance ID: `150697028`
 
 **Connect with me:**
-*   **GitHub**: [https://github.com/sheikh-bilal65](https://github.com/sheikh-bilal65)
 *   **LinkedIn**: [https://www.linkedin.com/in/bilal-ahmad2](https://www.linkedin.com/in/bilal-ahmad2)
 *   **Gmail**: [bilalahmadallbd@gmail.com](mailto:bilalahmadallbd@gmail.com)
 *   **Instagram**: [https://www.instagram.com/sheikhh.bilal/](https://www.instagram.com/sheikhh.bilal/)
