@@ -25,16 +25,12 @@ If you’d like to support this project, you can donate via cryptocurrency!
 - **Wallet Address:**  
   `0xef6e84f601441439e809088fe0355ec63b9f0017`
 
-![BNB Wallet QR code](BNB.jpg)
-
 ---
 
 **USDT (Tether USD, BEP20):**  
 - **Network:** BNB Smart Chain (BEP20)  
 - **Wallet Address:**  
   `0xef6e84f601441439e809088fe0355ec63b9f0017`
-
-![USDT Wallet QR code](USDT.jpg)
 
 ---
 
